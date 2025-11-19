@@ -80,8 +80,7 @@ select {
 
 .frameworks-list {
     /* Стили для маркированного списка во второй секции */
-
-    padding: 0 0 0 20px;
+    padding: 0 20px;
     list-style-image: url(./assets/vectorsmall.png);
     font-weight: 400;
     font-size: 16px;
@@ -91,7 +90,7 @@ select {
     /* Стили для нумерованного списка во второй секции */
     font-weight: 400;
     font-size: 16px;
-    padding: 0 0 0 20px;
+    padding: 0 20px;
 }
 
 .label {
@@ -141,7 +140,7 @@ table {
 
 th, td {
     /* Стили для ячеек таблицы */
-    padding: 11px 0 12px 0 ;
+    padding: 12px 15px;
     border: 1px solid #95a1bb;
     width: 100px;
 }
